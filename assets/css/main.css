@@ -1527,7 +1527,7 @@ input, select, textarea {
 /* Section/Article */
 
 	section, article {
-		margin-bottom: 2.5em;
+		margin-bottom: 1.5em;
 	}
 
 		section > :last-child, section:last-child, article > :last-child, article:last-child {
@@ -2173,7 +2173,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/2.webp");
+		background: #CCE8F4 url("../../images/1.webp");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
